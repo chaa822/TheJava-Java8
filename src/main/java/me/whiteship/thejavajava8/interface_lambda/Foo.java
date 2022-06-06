@@ -1,4 +1,4 @@
-package me.whiteship.thejavajava8;
+package me.whiteship.thejavajava8.interface_lambda;
 
 public class Foo {
 
