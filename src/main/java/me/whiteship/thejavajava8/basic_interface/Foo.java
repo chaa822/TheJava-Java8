@@ -1,7 +1,5 @@
 package me.whiteship.thejavajava8.basic_interface;
 
-import com.sun.org.apache.xpath.internal.operations.Plus;
-
 import java.util.function.*;
 
 public class Foo {
